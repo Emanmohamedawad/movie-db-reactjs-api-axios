@@ -1,0 +1,28 @@
+.title p
+{
+    font-size: 14px !important;
+}
+.title .data
+{
+    border-bottom: 1px solid #a8a8a83d;
+}
+.movieData p
+{
+    font-size: 15px;
+}
+.rateBox p
+{
+    font-size: 12px !important;
+    font-weight: 700;
+}
+.rateBox
+{
+    background-color: #24baef;
+    /* right: -5px; */
+}
+.line-grey
+{
+    width: 25%;
+    height: 1px;
+    background-color: #a8a8a83d;
+}

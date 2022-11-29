@@ -1,0 +1,12 @@
+nav
+{
+    background-color: #000 !important;
+}
+.nav-link 
+{
+    color: #fff;
+}
+.logout
+{
+    cursor: pointer !important;
+}

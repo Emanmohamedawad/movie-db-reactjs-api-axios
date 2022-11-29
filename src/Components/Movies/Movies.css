@@ -1,0 +1,12 @@
+.page-link{
+   color:rgb(79, 79, 174) !important ;
+   font-weight: bold;
+}
+.page-item :hover ,
+.page-item :focus,
+.page-item :focus-visible,
+.page-item :active{
+   background-color: rgb(79, 79, 174) !important;
+   color: #fff !important;
+   cursor: pointer;
+}
