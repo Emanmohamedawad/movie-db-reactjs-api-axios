@@ -45,8 +45,9 @@ let navigate = useNavigate();
         else
         {
             setErrList([]);
+            // https://routeegypt.herokuapp.com/
 
-            let {data} = await axios.post('https://route-egypt-api.herokuapp.com/signup' , user);
+            let {data} = await axios.post('https://routeegypt.herokuapp.com/signup' , user);
             if(data.errors)
             {
                 setEmailExist(data.message);
@@ -90,7 +91,7 @@ return <>
             <p className=' fs-6 text-danger mb-3'> {getError('email')}</p>
 
             <label htmlFor="password"> Password: </label>
-            <input onChange={ getUser } type="text" id='password' className='mt-3 form-control' placeholder='password'/>
+            <input onChange={ getUser } type="password" id='password' className='mt-3 form-control' placeholder='password'/>
             <p className=' fs-6 text-danger mb-3'> {getError('password')}</p>
 
             <button type='submit' className='my-2 btn btn-outline-info'>Register</button>

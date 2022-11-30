@@ -40,7 +40,7 @@ export default function Login({decodeData}) {
         {
             setErrList([]);
             setLoginFlag(true);
-            let {data} = await axios.post('https://route-egypt-api.herokuapp.com/signin' , user);
+            let {data} = await axios.post('https://routeegypt.herokuapp.com/signin' , user);
             //console.log(data.message);
             if(data.message !== "success")
             {
