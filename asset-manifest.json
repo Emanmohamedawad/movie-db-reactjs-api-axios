@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/movie-db-reactjs-api-axios/static/css/main.26c469d2.css",
-    "main.js": "/movie-db-reactjs-api-axios/static/js/main.08fb6ef0.js",
+    "main.css": "/movie-db-reactjs-api-axios/static/css/main.fae461fe.css",
+    "main.js": "/movie-db-reactjs-api-axios/static/js/main.134c0eaa.js",
     "static/js/787.7ea17d67.chunk.js": "/movie-db-reactjs-api-axios/static/js/787.7ea17d67.chunk.js",
     "static/media/fa-solid-900.ttf": "/movie-db-reactjs-api-axios/static/media/fa-solid-900.422cfe2813b03d900c10.ttf",
     "static/media/fa-brands-400.ttf": "/movie-db-reactjs-api-axios/static/media/fa-brands-400.aff1938a5c48584fa92b.ttf",
@@ -12,12 +12,12 @@
     "static/media/fa-v4compatibility.ttf": "/movie-db-reactjs-api-axios/static/media/fa-v4compatibility.ea8535110e0c42fd0046.ttf",
     "static/media/fa-v4compatibility.woff2": "/movie-db-reactjs-api-axios/static/media/fa-v4compatibility.2ec4574b00d1d21ed0a3.woff2",
     "index.html": "/movie-db-reactjs-api-axios/index.html",
-    "main.26c469d2.css.map": "/movie-db-reactjs-api-axios/static/css/main.26c469d2.css.map",
-    "main.08fb6ef0.js.map": "/movie-db-reactjs-api-axios/static/js/main.08fb6ef0.js.map",
+    "main.fae461fe.css.map": "/movie-db-reactjs-api-axios/static/css/main.fae461fe.css.map",
+    "main.134c0eaa.js.map": "/movie-db-reactjs-api-axios/static/js/main.134c0eaa.js.map",
     "787.7ea17d67.chunk.js.map": "/movie-db-reactjs-api-axios/static/js/787.7ea17d67.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26c469d2.css",
-    "static/js/main.08fb6ef0.js"
+    "static/css/main.fae461fe.css",
+    "static/js/main.134c0eaa.js"
   ]
 }
